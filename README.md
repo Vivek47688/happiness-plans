@@ -24,7 +24,6 @@ This project showcases front-end development skills using:
 ## 🚀 Live Demo
 
 🔗 [Click here to view the live site](https://happinesplans.netlify.app/)  
-_(Replace this with your Netlify or GitHub Pages URL)_
 
-## 📁 Folder Structure
+
 
